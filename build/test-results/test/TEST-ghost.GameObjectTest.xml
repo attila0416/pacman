@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.GameObjectTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-22T11:22:43" hostname="DESKTOP-UFUEMNG" time="0.144">
+  <properties/>
+  <testcase name="getSpriteWidthTest()" classname="ghost.GameObjectTest" time="0.016"/>
+  <testcase name="getSpriteHeightTest()" classname="ghost.GameObjectTest" time="0.017"/>
+  <testcase name="getSpriteTest()" classname="ghost.GameObjectTest" time="0.019"/>
+  <testcase name="setXTest()" classname="ghost.GameObjectTest" time="0.017"/>
+  <testcase name="setYTest()" classname="ghost.GameObjectTest" time="0.019"/>
+  <testcase name="getXTest()" classname="ghost.GameObjectTest" time="0.015"/>
+  <testcase name="getYTest()" classname="ghost.GameObjectTest" time="0.019"/>
+  <testcase name="setSpriteTest()" classname="ghost.GameObjectTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

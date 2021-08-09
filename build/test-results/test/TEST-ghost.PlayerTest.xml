@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.PlayerTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2020-11-22T11:22:44" hostname="DESKTOP-UFUEMNG" time="1.145">
+  <properties/>
+  <testcase name="checkCollideSuperFruitTrueTest()" classname="ghost.PlayerTest" time="0.049"/>
+  <testcase name="checkCollideGhostAllTrueTests()" classname="ghost.PlayerTest" time="0.046"/>
+  <testcase name="checkIfValidMovementRightTest()" classname="ghost.PlayerTest" time="0.045"/>
+  <testcase name="getLifePointsTest()" classname="ghost.PlayerTest" time="0.047"/>
+  <testcase name="moveUpTest()" classname="ghost.PlayerTest" time="0.05"/>
+  <testcase name="checkCollideSuperFruitFalseTest()" classname="ghost.PlayerTest" time="0.036"/>
+  <testcase name="checkIfValidMovementDownTest()" classname="ghost.PlayerTest" time="0.052"/>
+  <testcase name="isAliveTest()" classname="ghost.PlayerTest" time="0.049"/>
+  <testcase name="checkIfValidMovementLeftTest()" classname="ghost.PlayerTest" time="0.053"/>
+  <testcase name="setAliveTest()" classname="ghost.PlayerTest" time="0.056"/>
+  <testcase name="moveRightTest()" classname="ghost.PlayerTest" time="0.054"/>
+  <testcase name="tickTestCorrectSprites()" classname="ghost.PlayerTest" time="0.056"/>
+  <testcase name="checkCollideFruitTrueTest()" classname="ghost.PlayerTest" time="0.059"/>
+  <testcase name="checkCollideFruitFalseTest()" classname="ghost.PlayerTest" time="0.057"/>
+  <testcase name="checkCollideSuperFruitAllFalseTests()" classname="ghost.PlayerTest" time="0.057"/>
+  <testcase name="checkIfValidMovementUpTest()" classname="ghost.PlayerTest" time="0.058"/>
+  <testcase name="checkCollideSuperFruitAllTrueTests()" classname="ghost.PlayerTest" time="0.062"/>
+  <testcase name="moveDownTest()" classname="ghost.PlayerTest" time="0.057"/>
+  <testcase name="moveLeftTest()" classname="ghost.PlayerTest" time="0.061"/>
+  <testcase name="checkCollideGhostAllFalseTests()" classname="ghost.PlayerTest" time="0.063"/>
+  <testcase name="tickTest()" classname="ghost.PlayerTest" time="0.069"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

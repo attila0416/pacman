@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.GameTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-11-22T11:22:43" hostname="DESKTOP-UFUEMNG" time="0.197">
+  <properties/>
+  <testcase name="gameResetTest()" classname="ghost.GameTest" time="0.023"/>
+  <testcase name="checkForLifeLostTest()" classname="ghost.GameTest" time="0.025"/>
+  <testcase name="drawTest()" classname="ghost.GameTest" time="0.027"/>
+  <testcase name="checkForVictoryTest()" classname="ghost.GameTest" time="0.056"/>
+  <testcase name="checkForDefeatTest()" classname="ghost.GameTest" time="0.034"/>
+  <testcase name="fullGameResetTest()" classname="ghost.GameTest" time="0.029"/>
+  <system-out><![CDATA[303
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

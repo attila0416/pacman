@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.LifePointTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-22T11:22:44" hostname="DESKTOP-UFUEMNG" time="0.063">
+  <properties/>
+  <testcase name="IsAliveTrueTest()" classname="ghost.LifePointTest" time="0.034"/>
+  <testcase name="IsAliveFalseTest()" classname="ghost.LifePointTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

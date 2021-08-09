@@ -1,0 +1,18 @@
+ghost/WallTest.java
+ ghost.WallTest
+ghost/FruitTest.java
+ ghost.FruitTest
+ghost/LifePointTest.java
+ ghost.LifePointTest
+ghost/PlayerTest.java
+ ghost.PlayerTest
+ghost/GameTest.java
+ ghost.GameTest
+ghost/SuperFruitTest.java
+ ghost.SuperFruitTest
+ghost/AppTest.java
+ ghost.AppTest
+ghost/GhostTest.java
+ ghost.GhostTest
+ghost/GameObjectTest.java
+ ghost.GameObjectTest

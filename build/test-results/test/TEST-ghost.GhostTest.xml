@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.GhostTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-22T11:22:43" hostname="DESKTOP-UFUEMNG" time="0.241">
+  <properties/>
+  <testcase name="spriteSwitchTestAt5Seconds()" classname="ghost.GhostTest" time="0.02"/>
+  <testcase name="spriteSwitchTestAfter5Seconds()" classname="ghost.GhostTest" time="0.025"/>
+  <testcase name="isFrightenedTest()" classname="ghost.GhostTest" time="0.023"/>
+  <testcase name="spriteSwitchTestAfterFrightenedMode()" classname="ghost.GhostTest" time="0.03"/>
+  <testcase name="isEatenTest()" classname="ghost.GhostTest" time="0.031"/>
+  <testcase name="setFrightenedTest()" classname="ghost.GhostTest" time="0.031"/>
+  <testcase name="setEatenTest()" classname="ghost.GhostTest" time="0.043"/>
+  <testcase name="spriteSwitchTestBefore5Seconds()" classname="ghost.GhostTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
